@@ -16,6 +16,13 @@ This project demonstrates the application of data cleaning, EDA, and predictive 
 - 1 containing as many relevant features as required for the model
 - 1 containing only features that are not considered 'sensitive' information from the country - a more ethical model
 
+The order of reading/running the notebooks should be executed in this order:
+1. Life_Expectancy_Cleaning_and_EDA.ipynb
+2. Life_Expectancy_Feature_Engineering.ipynb
+3. Life_Expectancy_Modelling
+4. Non-Sensitive_Data.ipynb
+5. Final_Function.ipynb
+
 ## Collaborations
 This project was completed in collaboration with Kacper Rawicki https://github.com/KacperRawicki and Karan Ruprah https://github.com/KSR-16
 
